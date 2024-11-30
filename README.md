@@ -1,5 +1,6 @@
 
-## 🌐 Socials:
+## 🌐 So![Laboratory 研究室 (1)](https://github.com/user-attachments/assets/6bf83ad7-866d-41b3-bd18-7be0ded71104)
+cials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discordapp.com/users/942515421507121172) 
 
 # 💻 Tech Stack:
