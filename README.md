@@ -2,7 +2,7 @@
 ![Subscribe now and immerse yourself in soothing sounds! 🌿🎧 #LofiBeats #ChillVibes #FocusMusic #Rela](https://github.com/user-attachments/assets/5ad75a6b-7930-498b-87c4-5e9a4643b507)
 
 
-👋 Hi! I'm Hala Almutari, a passionate web developer dedicated to creating impactful projects. You can check out my portfolio at hala-almutari.netlify.app.
+👋 Hi! I'm Hala Almutari, a passionate web developer dedicated to creating impactful projects. You can check out my portfolio at [hala-almutari.netlify.app.](https://hala-almutari.netlify.app/)
 
 🔭 I’m currently working on:
 
