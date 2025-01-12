@@ -2,7 +2,7 @@
 
 ## About Me 👽
 
-I am a CE undergraduate at Kuwait University.
+I am a CE undergraduate student at Kuwait University.
 
 I am currently working on something cool.  
 Currently learning Three.js and creative coding.
