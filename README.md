@@ -3,7 +3,7 @@
 ## About Me 👽
 
 I am a CE undergraduate student at Kuwait University.
-Mainly working on FullStack Projects
+Mainly working on Web FullStack Projects
 
 I am currently working on something cool.  
 Currently learning Three.js and creative coding.
