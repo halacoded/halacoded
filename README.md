@@ -1,14 +1,14 @@
-## Hi there, I am Hala Almutairi 👋
+## Hi there, I am Hala Almutairi
 
-## About Me 👽
+## About Me
 
 I am a CE undergraduate student at Kuwait University.
 Mainly working on Web FullStack Projects
 
-I am currently working on something cool.  
+Currently building my biggest project yet [**LINK.**](https://github.com/halacoded/LINK.) check it out
 
 
-## Technology I Use 🚀
+## Technology I Use
 
 |   |           |
 |------------|----------------|
@@ -17,7 +17,7 @@ I am currently working on something cool.
 | React.js   | Css & Tailwind|
 | Node.js    | Netlify      |
 
-## How to Reach Me 📬
+## How to Reach Me
 
 - **Email**: halaalmutari5@gmail.com
 - **Discord**: halaaaaa
