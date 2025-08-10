@@ -5,7 +5,7 @@
 I am a CE undergraduate student at Kuwait University.
 Mainly working on Web FullStack Projects
 
-Currently building my biggest project yet [**LINK.**](https://github.com/halacoded/LINK.) check it out
+
 
 
 ## Technology I Use
