@@ -5,12 +5,7 @@
 I am a CE undergraduate student at Kuwait University.
 Mainly working on Web FullStack Projects
 
-I'm working on a **4-week tech projects** before university starts each week i will build and demo project.
 
-- **Week 1**: GestureControlATM – *In Progress* (Started: **10/8**)
-- Week 2: Coming soon
-- Week 3: Coming soon
-- Week 4: Coming soon
 
 
 
